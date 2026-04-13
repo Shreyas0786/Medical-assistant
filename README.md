@@ -54,4 +54,4 @@ Replace `client_websocket_url` with your ngrok URL.
 
 ## Built At
 
-HackPrinceton 2026
+Hack-a-Sprint 2026
