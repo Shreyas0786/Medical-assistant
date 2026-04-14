@@ -1,6 +1,6 @@
 """
 Minimal WebSocket client to verify ngrok forwards WSS to localhost.
-Run call_server.py first, then: python3 test_websocket.py
+Run call_server.py first, then: python3 manual_websocket_client.py
 """
 
 import asyncio
